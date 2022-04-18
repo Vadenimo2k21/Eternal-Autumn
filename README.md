@@ -1,2 +1,2 @@
 # Eternal-Autumn
-The official Super Mario: Eternal Autumn Github
+The official Super Mario: Eternal Autumn Github repository.
